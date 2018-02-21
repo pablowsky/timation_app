@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_history"
+            android:icon="@drawable/ic_history_white_36dp"
+            android:title="¿Donde estaba?" />
+        <item
+            android:id="@+id/nav_adddevice"
+            android:icon="@drawable/ic_add_location_black_36dp"
+            android:title="Agregar Dispositivo" />
+        <item
+            android:id="@+id/nav_share"
+            android:icon="@drawable/ic_menu_share"
+            android:title="Compartir ubicacion" />
+    </group>
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_notifications"
+            android:icon="@drawable/ic_mail_outline_black_36dp"
+            android:title="Notificaciones" />
+        <item
+            android:id="@+id/nav_pay"
+            android:icon="@drawable/ic_credit_card_black_36dp"
+            android:title="Pagos" />
+    </group>
+</menu>

@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Timation</string>
+    <string name="act_notificaciones">Notificaciones</string>
+    <string name="act_pagos">Pagos</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_temp">Map</string>
+
+
+    <string name="empty_notificaciones">Sin Notificaciones</string>
+    <string name="empty_pagos">Ningun pago pendiente</string>
+
+    <string name="send_to">Compartir Ubicación</string>
+
+    <!-- adddevice-->
+    <string name="da_rut">RUT</string>
+    <string name="da_dispositivo">ID Dispositivo</string>
+    <string name="da_nombre">Guardar como</string>
+
+
+</resources>
